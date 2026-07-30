@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22555" appversion="8.0.2" hassounds="0" start="node4">
+  <panorama id="node4">
+    <input height="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1024">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-18T16:24:38" comment="" copyright="" customnodeid="" datetime="" description="" heading="-94.585" hideinlist="0" info="" latitude="-22.78838707" longitude="-43.31249043" nodeid="node4" source="" streetviewlink="https://www.google.com/maps/@-22.7883871,-43.3124904,3a,75y,265.42h,90t/data=!3m4!1e1!3m2!1sCIABIhBUPKNuBsPVfVEyQr8zW2uu!2e10" tags="CORRIGIDAS" title=" "/>
+    <view fovmode="2" pannorth="-94.585">
+      <start fov="115" pan="0" projection="4" tilt="0"/>
+      <flyin fov="360" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="4.34692" id="Point01" pan="3.11813" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1024">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-18T16:24:38" comment="" copyright="" customnodeid="" datetime="" description="" heading="-269.514" hideinlist="0" info="" latitude="-22.78839231" longitude="-43.31253245" nodeid="node5" source="" streetviewlink="https://www.google.com/maps/@-22.7883923,-43.3125324,3a,75y,90.49h,90t/data=!3m4!1e1!3m2!1sCIABIhDCMZeOBSl4i3mCXJlFBCvB!2e10" tags="CORRIGIDAS" title="Moda Praia e Fitness - FDS"/>
+    <view fovmode="2" pannorth="-269.514">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="4.34692" id="Point01" pan="8.18917" skinid="ht_node" target="$fwd" tilt="0" title=" " url="{node4}"/>
+      <hotspot description="" distance="3.78214" id="Point02" pan="172.663" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1024">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-18T16:17:08" comment="" copyright="" customnodeid="" datetime="" description="" heading="-179.272" hideinlist="0" info="" latitude="-22.78838768" longitude="-43.31256900" nodeid="node1" source="" streetviewlink="https://www.google.com/maps/@-22.7883877,-43.312569,3a,75y,180.73h,90t/data=!3m4!1e1!3m2!1sCIABIhDNJpL2tEZHTbsvN8rm31AP!2e10" tags="CORRIGIDAS" title="Moda Praia e Fitness - FDS"/>
+    <view fovmode="2" pannorth="-179.272">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.12959" id="Point02" pan="-1.1491" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node2}"/>
+      <hotspot description="" distance="3.78214" id="Point01" pan="82.9045" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1024">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2026-07-18T16:17:08" comment="" copyright="" customnodeid="" datetime="" description="" heading="243.336" hideinlist="0" info="" latitude="-22.78841581" longitude="-43.31257000" nodeid="node2" source="" streetviewlink="https://www.google.com/maps/@-22.7884158,-43.31257,3a,75y,243.34h/data=!3m4!1e1!3m2!1sCIABIhBNkNqnVpQPZ3CrHUELflfm!2e10" tags="CORRIGIDAS" title="Moda Praia e Fitness - FDS"/>
+    <view fovmode="2" pannorth="243.336">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.12959" id="Point01" pan="-118.541" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node1}"/>
+      <hotspot description="" distance="3.80082" id="Point02" pan="-2.09933" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1024">
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-18T16:17:10" comment="" copyright="" customnodeid="" datetime="" description="" heading="-109.049" hideinlist="0" info="" latitude="-22.78843002" longitude="-43.31260372" nodeid="node3" source="" streetviewlink="https://www.google.com/maps/@-22.78843,-43.3126037,3a,75y,250.95h,90t/data=!3m4!1e1!3m2!1sCIABIhBIXfPhv4XEnsxGx1SS504d!2e10" tags="CORRIGIDAS" title="Moda Praia e Fitness - FDS"/>
+    <view fovmode="2" pannorth="-109.049">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="3.80082" id="Point01" pan="-174.484" skinid="ht_node" target="$fwd" tilt="0" title="Moda Praia e Fitness - FDS" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{da87c0c8-98f9-4a20-b41c-bdf68856f814}"/>
+    <transition blendcolor="0x000000" blendtime="0.5" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
